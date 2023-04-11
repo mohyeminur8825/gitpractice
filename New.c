@@ -2,7 +2,7 @@
 int main()
 {
 
-printf("mohyeminur khan");
+printf("mohyeminur khan\n");
 
 
     return 0;
